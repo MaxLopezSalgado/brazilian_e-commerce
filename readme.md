@@ -13,11 +13,11 @@ This project focuses on analyzing customer geolocation data from a Kaggle datase
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Installation
 
 1. Clone the repository: 
+```bash   
    git clone https://github.com/your-username/customer-geolocation-analysis.git
 
 2. Install the required dependencies:
