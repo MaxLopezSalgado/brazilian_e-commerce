@@ -4,7 +4,7 @@
 
 ## Description
 
-This project focuses on analyzing customer geolocation data to gain insights into customer distribution and generate visualizations for better understanding. The project involves cleaning and merging customer data with geolocation data, performing data wrangling tasks, conducting exploratory data analysis (EDA), plotting customer locations on a map, and creating a heatmap based on customer counts.
+This project focuses on analyzing customer geolocation data from a Kaggle dataset provided by Olist. The mean goal of this Analysis is to gain insights into customer distribution and generate visualizations for better understanding of the information of this Brasilian E-commerce Company. This venture involves cleaning and merging customer data with geolocation data, performing data wrangling tasks, conducting exploratory data analysis (EDA), plotting customer locations on a map, and creating a heatmap based on customer counts. In the future we could also perform some ML predictions, but for now this exceed the aim of the analysis.
 
 ## Table of Contents
 
@@ -17,7 +17,8 @@ This project focuses on analyzing customer geolocation data to gain insights int
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/customer-geolocation-analysis.git
+1. Clone the repository: 
+   git clone https://github.com/your-username/customer-geolocation-analysis.git
 
 2. Install the required dependencies:
 pip install pandas folium
@@ -61,15 +62,15 @@ print(geolocation_df.info())
 
 The data used in this project consists of several datasets. Here are the links to the sample datasets:
 
-- [Customer Dataset](link-to-customer-dataset)
-- [Order Dataset](link-to-order-dataset)
-- [Payment Dataset](link-to-payment-dataset)
-- [Review Dataset](link-to-review-dataset)
-- [Order Details Dataset](link-to-order-details-dataset)
-- [Product Dataset](link-to-product-dataset)
-- [Seller Dataset](link-to-seller-dataset)
-- [Product Category Dataset](link-to-product-category-dataset)
-- [Geolocation Dataset](link-to-geolocation-dataset)
+- [Customer Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Order Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Payment Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Review Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Order Details Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Product Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Seller Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Product Category Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- [Geolocation Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Technologies Used
 - Python
