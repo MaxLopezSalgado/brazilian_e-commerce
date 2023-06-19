@@ -21,9 +21,10 @@ This project focuses on analyzing customer geolocation data from a Kaggle datase
     git clone https://github.com/your-username/customer-geolocation-analysis.git
 
 2. Install the required dependencies:
-pip install pandas folium
-pip install folium
-pip install matplotlib
+    ```python
+    pip install pandas folium
+    pip install folium
+    pip install matplotlib
 
 3. Open the Jupyter Notebook or Python script to run the project.
 
