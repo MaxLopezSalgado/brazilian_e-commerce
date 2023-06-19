@@ -37,15 +37,15 @@ This project focuses on analyzing customer geolocation data from a Kaggle datase
 ## Data Wrangling and Exploratory Data Analysis (EDA)
 
 The project involved data wrangling and exploratory data analysis on the following datasets:
-**DataFrame 1: Customer Data**
-**DataFrame 2: Order Data**
-**DataFrame 3: Payment Data**
-**DataFrame 4: Review Data**
-**DataFrame 5: Order Details Data**
-**DataFrame 6: Product Data**
-**DataFrame 7: Seller Data**
-**DataFrame 8: Product Category Data**
-**DataFrame 9: Geolocation Data**
+- DataFrame 1: Customer Data
+- DataFrame 2: Order Data
+- DataFrame 3: Payment Data
+- DataFrame 4: Review Data
+- DataFrame 5: Order Details Data
+- DataFrame 6: Product Data
+- DataFrame 7: Seller Data
+- DataFrame 8: Product Category Data
+- DataFrame 9: Geolocation Data
 
 ## Data Sources
 
