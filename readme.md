@@ -39,7 +39,7 @@ This project focuses on analyzing customer geolocation data from a Kaggle datase
 The project involved data wrangling and exploratory data analysis on the following datasets:
 
 **DataFrame 1: Customer Data**
-    ```python
+```python
         # DataFrame 1 Info
         print(customer_df.info())
         # DataFrame 2 Info
